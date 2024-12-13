@@ -1,5 +1,5 @@
 # **Kalpavriksha Assignments**
 
- Assignment 1: Calculator Program
+ Assignment 1: 1. Simple calculator using C
 
- Assignment 2: User management using CRUD operations on File Using C
+               2. User management using CRUD operations on File Using C
